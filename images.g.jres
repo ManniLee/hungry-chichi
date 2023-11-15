@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAACwuwAAAAAAALDVy8zMAAAAsNW9W8UAAAC7VV1VzQAAsFtVVdXNAABbVVVV1QwAsF1VVVW1DAAAWxVRVdUMAACwG1FV1c0AAAC7VV1VzQAAALDVvVvFAAAAsNXLzMwAAACwuwAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "chocolate"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
